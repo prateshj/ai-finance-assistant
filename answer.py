@@ -13,7 +13,7 @@ client = OpenAI(
 MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
 
-def generate_answer(question):
+def generate_answer(question, return_details=False):
 
     # Step 1: Retrieve relevant chunks
     results = retrieve(question, top_k=3)
@@ -63,7 +63,16 @@ def generate_answer(question):
         max_tokens=600
     )
 
-    return response.choices[0].message.content
+    answer = response.choices[0].message.content
+
+    if return_details:
+        return {
+            "answer": answer,
+            "context": context,
+            "retrieved_chunks": results
+        }
+
+    return answer
 
 
 if __name__ == "__main__":

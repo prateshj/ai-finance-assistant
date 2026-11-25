@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "text": "Many people in India are afraid of investing in the securities market. This fear stems primarily from the risk that the market carries, as well as a lack of knowledge about how to manage that risk. However, as the famous investing Guru Benjamin Graham, the father of value investing, once said: \"Successful investing is about managing risk, not avoiding it.\" These words hold true even today, and they serve as a reminder that with the right knowledge and approach, investing in the securities market can be a rewarding endeavour. Investments of any kind are subject to various risks. While an investor cannot completely do away with the risks, one can manage them in a manner to reduce the negative impact of those risks on one\u2019s investment portfolio. First and foremost, do thorough research about the investment and understand the risks. There is no substitute for that. If one is unable",
+    "source": "investment_risks_sebi.txt",
+    "chunk_id": 0
+  },
+  {
+    "id": 1,
+    "text": "of those risks on one\u2019s investment portfolio. First and foremost, do thorough research about the investment and understand the risks. There is no substitute for that. If one is unable to do the research oneself, it would be prudent to seek professional help The second step would be to diversify across different assets class. The key word here is \"different\". Diversification may be done across assets classes: Even within an asset category, it is important to diversify. With the securities market you can diversify i.e. Investing in high-quality and diversified assets can help protect your portfolio from most risks. However, there are some risks that cannot be diversified, such as market wide price volatility. When the entire market goes down, the individual securities within the market will also see their prices go down. The negative impact of such a risk may be avoided by matching the type of investment with",
+    "source": "investment_risks_sebi.txt",
+    "chunk_id": 1
+  },
+  {
+    "id": 2,
+    "text": "the individual securities within the market will also see their prices go down. The negative impact of such a risk may be avoided by matching the type of investment with your investment horizon. For short-term investments, you should avoid risky investments like equity markets. For long-term investments, you should invest in securities that have the potential to beat inflation. And if you need the money in the near future, you should avoid volatile or illiquid investments. In other words, you should choose investments that are appropriate for your time horizon and risk tolerance. This will help you avoid losing money and achieve your financial goals.",
+    "source": "investment_risks_sebi.txt",
+    "chunk_id": 2
+  },
+  {
+    "id": 3,
+    "text": "In the article \u201cWhy one should invest\u201d, we saw the need for investing one\u2019s surplus money. The investments can be managed by oneself, or through professional help. Mutual fund is one such investment vehicle where any investor can avail the expert services of professional money managers. What is Mutual Fund? A mutual fund is a trust who collects/pools money from the various investors and invest the money in different types of securities. The investment portfolio managed by a professional organisation known as an asset management company. This company launches schemes (also known as products) by stating certain objectives clearly. An investor can invest into these schemes if the objective of the scheme is in line with the investor\u2019s needs. By investing in a mutual fund scheme, the investor has outsourced the job of managing his money with the asset management company. This company would then: - Invest the investor\u2019s money",
+    "source": "mutual_funds_sebi.txt",
+    "chunk_id": 3
+  },
+  {
+    "id": 4,
+    "text": "investing in a mutual fund scheme, the investor has outsourced the job of managing his money with the asset management company. This company would then: - Invest the investor\u2019s money in line with the stated objective, Handle all the research required to select the underlying investments Keep a track of those investments Make changes to the portfolio, if required and Also handle the entire administrative job related to the above. It will summarise the performance of the portfolio into a statement and give it to the investor, who gets the complete picture on that one page \u2013 known as the account statement Advantages of investing in mutual funds: Professional management of funds: The mutual fund schemes are managed by professional fund managers. They are registered and regulated professionals. Low cost: The asset management company charges expenses towards management of the funds as well as paying other professionals that provide other",
+    "source": "mutual_funds_sebi.txt",
+    "chunk_id": 4
+  },
+  {
+    "id": 5,
+    "text": "fund managers. They are registered and regulated professionals. Low cost: The asset management company charges expenses towards management of the funds as well as paying other professionals that provide other services like fund accounting, custody of securities, auditing, distribution of the schemes, among others. These expenses are capped through regulations by SEBI. Diversified portfolio: The schemes must hold a diversified portfolio as mandated through SEBI regulations, except in certain cases. Transparency: Mutual funds must publish the scheme investment objective, upfront. The portfolio where money is invested is disclosed at regular intervals, as prescribed by the regulations. The accounting value of each unit, known as the NAV (Net Asset Value), must be published daily. All material changes in the scheme are to be communicated to the unit holders in a timely manner. Such transparency allows the unit holders (both existing and prospective) to take informed decisions. Convenience: A mutual fund investment",
+    "source": "mutual_funds_sebi.txt",
+    "chunk_id": 5
+  },
+  {
+    "id": 6,
+    "text": "to be communicated to the unit holders in a timely manner. Such transparency allows the unit holders (both existing and prospective) to take informed decisions. Convenience: A mutual fund investment is as easy to operate as a bank account, as on any working day, an investor can make additional investment in the same folio as well as redeem money as may be required. There are facilities to invest or redeem in a systematic manner \u2013 Systematic Investment Plan (SIP) and Systematic Withdrawal Plan (SWP). Strong regulatory framework: Mutual funds are regulated by SEBI through a strong regulatory framework.",
+    "source": "mutual_funds_sebi.txt",
+    "chunk_id": 6
+  },
+  {
+    "id": 7,
+    "text": "Systematic Investment Plan (SIP) Systematic Investment Plan (SIP) is an investment plan (methodology) offered by Mutual Funds wherein one could invest a fixed amount in a mutual fund scheme periodically, at fixed intervals \u2013 say once a month, instead of making a lump-sum investment. The SIP instalment amount could be as little as \u20b9500 per month. SIP is similar to a recurring deposit where you deposit a small fixed amount every month. sys.jpg SIP is a very convenient method of investing in mutual funds through standing instructions to debit your bank account every month, without the hassle of having to write out a cheque each time. SIP has been gaining popularity among Indian MF investors, as it helps in Rupee Cost Averaging and also in investing in a disciplined manner without worrying about market volatility and timing the market. Systematic Investment Plans offered by mutual funds are easily the best",
+    "source": "sip_amfi.txt",
+    "chunk_id": 7
+  },
+  {
+    "id": 8,
+    "text": "Cost Averaging and also in investing in a disciplined manner without worrying about market volatility and timing the market. Systematic Investment Plans offered by mutual funds are easily the best way to enter the world of investments over the long term. Common sense suggests that \u201cBuying low and selling high\u201d is perhaps the best way to get good returns on your investments. But this is easier said than done, even for the most experienced investors. There are many factors at play when it comes to any market - debt or equity, and all of them are inextricably linked. SIP is a simpler approach to long term investing is disciplining and committing to a fixed sum for a fixed period and sticking to this schedule regardless of the conditions of the market. Rupee cost averaging Rupee cost averaging, as this practice is called, in a way ensures that you automatically buy",
+    "source": "sip_amfi.txt",
+    "chunk_id": 8
+  },
+  {
+    "id": 9,
+    "text": "sticking to this schedule regardless of the conditions of the market. Rupee cost averaging Rupee cost averaging, as this practice is called, in a way ensures that you automatically buy more units when the NAV is low and fewer when the NAV is high\u2026e.g., an SIP of \u20b91000 gets you 50 units when the NAV is Rs. 20, but gets you 100 units when the NAV is Rs.10. The average cost for buying those 150 units would be Rs. 2000/150 units i.e. \u20b9 13.33. However, please remember that the Rupee cost averaging does not assure profit, nor does it protect one against investment losses in declining markets. It merely ensures disciplined & regular investment in stock markets, which helps overcome the natural impulse to stop investing in a falling or a depressed market or investing a lot, when markets are buoyant and euphoric. The Power of Compounding There is a",
+    "source": "sip_amfi.txt",
+    "chunk_id": 9
+  },
+  {
+    "id": 10,
+    "text": "the natural impulse to stop investing in a falling or a depressed market or investing a lot, when markets are buoyant and euphoric. The Power of Compounding There is a great advantage with long-term investments, namely, compounding which is considered one of the greatest mathematical discovery. To put it in simple words, compounding is when the interest (or income) you earn is reinvested in the original corpus and accumulated corpus continues to earn (& grow). Every time this happens, your investment keeps growing, paving the way for a systematic accumulation of money, multiplying over time. To illustrate, a small amount of \u20b91000 invested every month at an interest rate of 8% for 25 years would give you \u20b9 9.57 Lakh! That means your investment of just \u20b9 3 Lakh would have grown three times over! Here is a graph that represents the same for a time period of 15 years.",
+    "source": "sip_amfi.txt",
+    "chunk_id": 10
+  },
+  {
+    "id": 11,
+    "text": "That means your investment of just \u20b9 3 Lakh would have grown three times over! Here is a graph that represents the same for a time period of 15 years. bar-graph.gif Starting early pays well To get the best out of your investments, it is very important to invest for the long-term, which means that you should start investing early, in order to maximize the end returns. Let\u2019s understand this better through an illustration \u2013 Let's assume that two friends, both aged 25, decide to invest \u20b9 2000 every month for a period of 5 years and earn 8% p.a. on a monthly compounding basis. The only difference is that while one starts investing promptly at the age of 25 itself, the other starts investing 10 years later at the age of 35 years. Both decide to hold on to their investments till they turn 60. So while both of",
+    "source": "sip_amfi.txt",
+    "chunk_id": 11
+  },
+  {
+    "id": 12,
+    "text": "itself, the other starts investing 10 years later at the age of 35 years. Both decide to hold on to their investments till they turn 60. So while both of them would accumulate principal investment of \u20b91.2 Lakh over a period of 5 years, the investment of the person who started early at the age of 25 appreciates to over \u20b9 14 Lakh, the investment of the second person who started later grows to only about \u20b9 6 Lakh. Thus, you can clearly see the difference between the two and the clear advantage of investing early. So go ahead. Start investing through SIP today itself.",
+    "source": "sip_amfi.txt",
+    "chunk_id": 12
+  }
+]

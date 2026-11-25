@@ -1,0 +1,49 @@
+{
+  "investment_risks_sebi.txt": {
+    "document_id": "investment_risks_sebi.txt",
+    "content_hash": "40a84492df24f61fdd75caf6bfbaa335aa493040249cc0800efc11caa8101e60",
+    "chunk_count": 3,
+    "vector_positions": [
+      0,
+      1,
+      2
+    ],
+    "registered_at": "2026-11-25T02:47:51.598028+00:00"
+  },
+  "mutual_funds_sebi.txt": {
+    "document_id": "mutual_funds_sebi.txt",
+    "content_hash": "138b29697924f7ae5468e3e9bd11e454f9788101b5e53e7338c4a3a0f1b1e056",
+    "chunk_count": 4,
+    "vector_positions": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "registered_at": "2026-11-25T02:47:51.598849+00:00"
+  },
+  "sip_amfi.txt": {
+    "document_id": "sip_amfi.txt",
+    "content_hash": "cde5c4f6742b144ad5157f002845a0f6a687087ad72f1bda8591ab8714d0f69d",
+    "chunk_count": 6,
+    "vector_positions": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "registered_at": "2026-11-25T02:47:51.599804+00:00"
+  },
+  "etf_sebi.txt": {
+    "document_id": "etf_sebi.txt",
+    "content_hash": "8bc526f52eea920ad9eadb5ceb62c4542c812badd429033275d30c2c3104b9e7",
+    "chunk_count": 2,
+    "vector_positions": [
+      13,
+      14
+    ],
+    "registered_at": "2026-11-25T02:56:05.523439+00:00"
+  }
+}

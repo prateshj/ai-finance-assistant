@@ -1,0 +1,774 @@
+{
+    "summary": {
+        "1": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "hit_rate": 1.0,
+            "mrr": 1.0
+        },
+        "3": {
+            "precision": 0.8,
+            "recall": 1.0,
+            "hit_rate": 1.0,
+            "mrr": 1.0
+        },
+        "5": {
+            "precision": 0.5166666666666666,
+            "recall": 1.0,
+            "hit_rate": 1.0,
+            "mrr": 1.0
+        }
+    },
+    "question_results": [
+        {
+            "question_id": 1,
+            "question": "What are Exchange Traded Funds (ETFs) designed to track?",
+            "expected_sources": [
+                "etf_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 2,
+            "question": "How do ETFs differ from regular mutual funds in terms of trading?",
+            "expected_sources": [
+                "etf_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 3,
+            "question": "What is one of the key advantages of investing in ETFs compared to mutual funds?",
+            "expected_sources": [
+                "etf_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 4,
+            "question": "What limitation do ETFs have compared to mutual fund units?",
+            "expected_sources": [
+                "etf_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 5,
+            "question": "What should investors do before making decisions about ETFs according to the document?",
+            "expected_sources": [
+                "etf_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "etf_sebi.txt",
+                        "investment_risks_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 6,
+            "question": "What is the primary reason many people in India are hesitant to invest in the securities market?",
+            "expected_sources": [
+                "investment_risks_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.3333333333333333,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 7,
+            "question": "According to Benjamin Graham, what is the key to successful investing?",
+            "expected_sources": [
+                "investment_risks_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 8,
+            "question": "What is one recommended strategy for managing investment risks mentioned in the document?",
+            "expected_sources": [
+                "investment_risks_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.3333333333333333,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 9,
+            "question": "What type of investments should be avoided for short-term investment horizons?",
+            "expected_sources": [
+                "investment_risks_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 10,
+            "question": "What should investors consider when choosing investments according to their financial goals?",
+            "expected_sources": [
+                "investment_risks_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.3333333333333333,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "investment_risks_sebi.txt",
+                        "sip_amfi.txt",
+                        "etf_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 11,
+            "question": "What is a mutual fund and how does it operate?",
+            "expected_sources": [
+                "mutual_funds_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 12,
+            "question": "What are the responsibilities of an asset management company in managing a mutual fund?",
+            "expected_sources": [
+                "mutual_funds_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt",
+                        "investment_risks_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 13,
+            "question": "What are the advantages of investing in mutual funds?",
+            "expected_sources": [
+                "mutual_funds_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 14,
+            "question": "How does SEBI regulate mutual funds?",
+            "expected_sources": [
+                "mutual_funds_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt",
+                        "etf_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 15,
+            "question": "What is the significance of the NAV (Net Asset Value) in mutual funds?",
+            "expected_sources": [
+                "mutual_funds_sebi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "mutual_funds_sebi.txt",
+                        "sip_amfi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 16,
+            "question": "What is a Systematic Investment Plan (SIP)?",
+            "expected_sources": [
+                "sip_amfi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt",
+                        "mutual_funds_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 17,
+            "question": "How does Rupee Cost Averaging work in the context of SIP?",
+            "expected_sources": [
+                "sip_amfi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 18,
+            "question": "What is the significance of starting early with investments according to the document?",
+            "expected_sources": [
+                "sip_amfi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt",
+                        "investment_risks_sebi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 19,
+            "question": "What is the potential outcome of investing \u20b91000 every month at an interest rate of 8% for 25 years?",
+            "expected_sources": [
+                "sip_amfi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                }
+            }
+        },
+        {
+            "question_id": 20,
+            "question": "What does the document suggest about the relationship between market conditions and SIP investments?",
+            "expected_sources": [
+                "sip_amfi.txt"
+            ],
+            "metrics": {
+                "1": {
+                    "precision": 1.0,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt"
+                    ]
+                },
+                "3": {
+                    "precision": 0.5,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt",
+                        "investment_risks_sebi.txt"
+                    ]
+                },
+                "5": {
+                    "precision": 0.3333333333333333,
+                    "recall": 1.0,
+                    "hit_rate": 1.0,
+                    "reciprocal_rank": 1.0,
+                    "retrieved_sources": [
+                        "sip_amfi.txt",
+                        "investment_risks_sebi.txt",
+                        "etf_sebi.txt"
+                    ]
+                }
+            }
+        }
+    ]
+}

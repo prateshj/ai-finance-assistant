@@ -1,0 +1,202 @@
+[
+    {
+        "question_id": 1,
+        "question": "What are Exchange Traded Funds (ETFs) designed to track?",
+        "reference_answer": "ETFs are designed to track indices such as Sensex, Nifty, etc.",
+        "supporting_evidence": "Exchange Traded Fund (ETF) are funds that track indices such as Sensex, Nifty, etc.",
+        "expected_sources": [
+            "etf_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 2,
+        "question": "How do ETFs differ from regular mutual funds in terms of trading?",
+        "reference_answer": "ETFs trade like a common stock on the stock exchange, while mutual funds do not.",
+        "supporting_evidence": "Unlike regular mutual funds, ETFs trade like a common stock on the stock exchange.",
+        "expected_sources": [
+            "etf_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 3,
+        "question": "What is one of the key advantages of investing in ETFs compared to mutual funds?",
+        "reference_answer": "ETFs generally have a lower expense ratio compared to mutual funds.",
+        "supporting_evidence": "Lower expense ratio compared to mutual funds.",
+        "expected_sources": [
+            "etf_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 4,
+        "question": "What limitation do ETFs have compared to mutual fund units?",
+        "reference_answer": "ETFs cannot be bought or sold in fractions unlike mutual fund units.",
+        "supporting_evidence": "The exchange-traded funds (ETFs) cannot be bought or sold in fractions unlike mutual fund units.",
+        "expected_sources": [
+            "etf_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 5,
+        "question": "What should investors do before making decisions about ETFs according to the document?",
+        "reference_answer": "Investors should have quality insights into ETFs and evaluate available options on necessary features.",
+        "supporting_evidence": "However, before beginning, it is necessary to have quality insights into ETFs in the stock market and other aspects to make informed decisions.",
+        "expected_sources": [
+            "etf_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 6,
+        "question": "What is the primary reason many people in India are hesitant to invest in the securities market?",
+        "reference_answer": "Many people in India are afraid of investing in the securities market due to the risk that the market carries and a lack of knowledge about how to manage that risk.",
+        "supporting_evidence": "This fear stems primarily from the risk that the market carries, as well as a lack of knowledge about how to manage that risk.",
+        "expected_sources": [
+            "investment_risks_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 7,
+        "question": "According to Benjamin Graham, what is the key to successful investing?",
+        "reference_answer": "Successful investing is about managing risk, not avoiding it.",
+        "supporting_evidence": "\"Successful investing is about managing risk, not avoiding it.\"",
+        "expected_sources": [
+            "investment_risks_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 8,
+        "question": "What is one recommended strategy for managing investment risks mentioned in the document?",
+        "reference_answer": "One recommended strategy is to diversify across different asset classes.",
+        "supporting_evidence": "The second step would be to diversify across different assets class.",
+        "expected_sources": [
+            "investment_risks_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 9,
+        "question": "What type of investments should be avoided for short-term investment horizons?",
+        "reference_answer": "For short-term investments, one should avoid risky investments like equity markets.",
+        "supporting_evidence": "For short-term investments, you should avoid risky investments like equity markets.",
+        "expected_sources": [
+            "investment_risks_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 10,
+        "question": "What should investors consider when choosing investments according to their financial goals?",
+        "reference_answer": "Investors should choose investments that are appropriate for their time horizon and risk tolerance.",
+        "supporting_evidence": "In other words, you should choose investments that are appropriate for your time horizon and risk tolerance.",
+        "expected_sources": [
+            "investment_risks_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 11,
+        "question": "What is a mutual fund and how does it operate?",
+        "reference_answer": "A mutual fund is a trust that collects money from various investors and invests it in different types of securities, managed by a professional organization known as an asset management company.",
+        "supporting_evidence": "A mutual fund is a trust who collects/pools money from the various investors and invest the money in different types of securities.",
+        "expected_sources": [
+            "mutual_funds_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 12,
+        "question": "What are the responsibilities of an asset management company in managing a mutual fund?",
+        "reference_answer": "The asset management company is responsible for investing the investor’s money in line with the stated objective, handling research, tracking investments, making portfolio changes, and managing administrative tasks.",
+        "supporting_evidence": "This company would then: - Invest the investor’s money in line with the stated objective, Handle all the research required to select the underlying investments, Keep a track of those investments, Make changes to the portfolio, if required and Also handle the entire administrative job related to the above.",
+        "expected_sources": [
+            "mutual_funds_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 13,
+        "question": "What are the advantages of investing in mutual funds?",
+        "reference_answer": "The advantages include professional management, low cost, diversified portfolio, transparency, convenience, and a strong regulatory framework.",
+        "supporting_evidence": "Advantages of investing in mutual funds: Professional management of funds, Low cost, Diversified portfolio, Transparency, Convenience, Strong regulatory framework.",
+        "expected_sources": [
+            "mutual_funds_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 14,
+        "question": "How does SEBI regulate mutual funds?",
+        "reference_answer": "SEBI regulates mutual funds through a strong regulatory framework, which includes capping expenses and mandating a diversified portfolio.",
+        "supporting_evidence": "These expenses are capped through regulations by SEBI. The schemes must hold a diversified portfolio as mandated through SEBI regulations.",
+        "expected_sources": [
+            "mutual_funds_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 15,
+        "question": "What is the significance of the NAV (Net Asset Value) in mutual funds?",
+        "reference_answer": "The NAV represents the accounting value of each unit and must be published daily, providing transparency to investors.",
+        "supporting_evidence": "The accounting value of each unit, known as the NAV (Net Asset Value), must be published daily.",
+        "expected_sources": [
+            "mutual_funds_sebi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 16,
+        "question": "What is a Systematic Investment Plan (SIP)?",
+        "reference_answer": "A Systematic Investment Plan (SIP) is an investment methodology offered by Mutual Funds that allows individuals to invest a fixed amount periodically in a mutual fund scheme.",
+        "supporting_evidence": "Systematic Investment Plan (SIP) is an investment plan (methodology) offered by Mutual Funds wherein one could invest a fixed amount in a mutual fund scheme periodically, at fixed intervals.",
+        "expected_sources": [
+            "sip_amfi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 17,
+        "question": "How does Rupee Cost Averaging work in the context of SIP?",
+        "reference_answer": "Rupee Cost Averaging ensures that investors buy more units when the NAV is low and fewer units when the NAV is high, leading to an average cost of investment.",
+        "supporting_evidence": "Rupee cost averaging, as this practice is called, in a way ensures that you automatically buy more units when the NAV is low and fewer when the NAV is high.",
+        "expected_sources": [
+            "sip_amfi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 18,
+        "question": "What is the significance of starting early with investments according to the document?",
+        "reference_answer": "Starting early with investments is crucial as it maximizes end returns due to the power of compounding over time.",
+        "supporting_evidence": "To get the best out of your investments, it is very important to invest for the long-term, which means that you should start investing early, in order to maximize the end returns.",
+        "expected_sources": [
+            "sip_amfi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 19,
+        "question": "What is the potential outcome of investing ₹1000 every month at an interest rate of 8% for 25 years?",
+        "reference_answer": "Investing ₹1000 every month at an interest rate of 8% for 25 years could grow to approximately ₹9.57 Lakh.",
+        "supporting_evidence": "To illustrate, a small amount of ₹1000 invested every month at an interest rate of 8% for 25 years would give you ₹ 9.57 Lakh!",
+        "expected_sources": [
+            "sip_amfi.txt"
+        ],
+        "answerable": true
+    },
+    {
+        "question_id": 20,
+        "question": "What does the document suggest about the relationship between market conditions and SIP investments?",
+        "reference_answer": "The document suggests that SIP helps investors maintain discipline and commit to regular investments regardless of market conditions, thus overcoming the impulse to stop investing during market downturns.",
+        "supporting_evidence": "SIP is a simpler approach to long term investing is disciplining and committing to a fixed sum for a fixed period and sticking to this schedule regardless of the conditions of the market.",
+        "expected_sources": [
+            "sip_amfi.txt"
+        ],
+        "answerable": true
+    }
+]
